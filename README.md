@@ -11,7 +11,7 @@ introductory steps with processing
     + Processing Handbook
     + Learning Processing
 1. open new Sketchbook
-1. follow 01-intro.md
+1. follow [01-intro.md](01-intro.md)
 
 ## structure of documents
 
