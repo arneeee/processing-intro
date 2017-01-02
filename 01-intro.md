@@ -118,9 +118,9 @@ void draw() {
 some more elements:
 
 ~~~~processing
-line(x1,y1,x2,y2); //Linie
+line(x1,y1,x2,y2); //line
 
-rect(x,y,width,height); //Rechteck
+rect(x,y,width,height); //rectangle
 
  if (mousePressed) {
     fill(0.5 * mouseX, 0.5 * mouseY, 150);
