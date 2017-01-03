@@ -2,7 +2,7 @@
 
 some basic reading: https://de.wikipedia.org/wiki/Klasse_(Objektorientierung)
 
-code example: a class called **Particle** is instantiated twice (or as many as desired; an instance is called *object* of the class); the object provides several methods, which can be called to display the particle, move it in x/y-direction or change its color. 
+code example: a class called **Particle** is instantiated twice (or as often as desired; an instance is called *object* of the class); the object provides several methods, which can be called to display the particle, move it in x/y-direction or change its color. 
 
 ~~~~processing
 Particle p1;
