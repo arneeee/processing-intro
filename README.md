@@ -4,6 +4,7 @@ introductory steps with processing
 ## getting started
 
 1. download processing on https://processing.org/
+1. install & start the software
 1. install several 'Tools' (Menu:Tool->Add Tool...)
   + *libraries:* Box2D for Processing
   + *examples:*
