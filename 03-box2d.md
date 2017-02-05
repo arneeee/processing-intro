@@ -15,4 +15,20 @@ interactive, + opencv and kinect
 https://www.youtube.com/watch?v=4V11V9Peqpc
 
 
-## tbc
+## example: oscillator
+
+### 1. supported by box2d
+
+Processing -> File -> Examples -> Contributed Examples -> The Nature of Code -> chp05_physicslibs -> Exercise_5_10_ApplyForceAttractMouse
+
+### 2. without physics lib
+
+Processing -> File -> Examples -> Contributed Examples -> The Nature of Code -> chp03_oscillation -> NOC_3_11_spring
+
+### Tasks:
+
+- [ ] @ 1: construct an ideal pendulum
+- [ ] @ 1: print time, position, velocity
+- [ ] @ 2: compare approach to 1 (e.g. type of force)
+- [ ] @ 2: reduce system to one particle (box)
+
