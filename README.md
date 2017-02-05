@@ -16,5 +16,6 @@ introductory steps with processing
 
 ## structure of documents
 
-+ 01-intro: tba 
-+ tba
++ the basic structure: [01-intro.md](01-intro.md)
++ classes and objects: [02-classes.md](02-classes.md)
++ physics with box2d: [03-box2d.md](03-box2d.md)
